@@ -1,0 +1,27 @@
+.panda-card
+{
+    border: 0;
+}
+.panda-card-footer
+{
+    background-color: white;
+    border: 0;
+}
+
+.panda-slide
+{
+    background-color:#fceae8;
+    border-radius: 10px;
+}
+.panda-footer
+{
+    background-color:#fceae8; 
+}
+.buy-now-btn
+{
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
